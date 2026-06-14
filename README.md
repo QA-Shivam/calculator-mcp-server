@@ -58,6 +58,7 @@ npx @modelcontextprotocol/inspector npx calculator-mcp-server
 
 ```bash
 npm login
+npm config set //registry.npmjs.org/:_authToken=YOUR_TOKEN
 npm publish --access public
 ```
 
