@@ -6,7 +6,7 @@ A simple Model Context Protocol server that exposes calculator tools for additio
 
 - Add two numbers
 - Subtract two numbers
-- Multiply two numbers
+- Multiply two numbersP
 - Divide two numbers with zero-division protection
 
 ## Requirements
@@ -47,7 +47,7 @@ npx @modelcontextprotocol/inspector npx calculator-mcp-server
   "servers": {
     "Calculator": {
       "command": "npx",
-      "args": ["-y", "calculator-mcp-server"],
+      "args": ["-y", "sk-calculator-mcp-server"],
       "env": {}
     }
   }
