@@ -68,3 +68,5 @@ Before publishing, make sure the package name is available on npm.
 
 - `npx-server.js`: MCP server implementation
 - `package.json`: package metadata and CLI entry point
+
+- I have built this just for learning !
